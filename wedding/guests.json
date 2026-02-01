@@ -1,1050 +1,1050 @@
 [
-  {
-    "name": "HAMBAR",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "b091b6ad-7d8e-4dc5-99d3-02fa18e60197"
-  },
-  {
-    "name": "Kel. Besar Ma Iyoh",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9f9d5d54-5134-4654-9032-51b3269a3c69"
-  },
-  {
-    "name": "Putune Mbok Sabingah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "366bc194-f61a-4d61-8eea-3aa8e7bc5460"
-  },
-  {
-    "name": "Rekan-rekan WCS Abysena",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "61fba766-d900-4cbe-9ed9-4f3ec087ab88"
-  },
-  {
-    "name": "ATEDJA",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "4940e3a7-1767-4349-a251-f610d5e7f3f8"
-  },
-  {
-    "name": "Mufid",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "52a51ebe-5301-4b67-9840-9bb5c685a55e"
-  },
-  {
-    "name": "Robby Akbar",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "711e3832-64d4-47be-9956-2b007e5b6611"
-  },
-  {
-    "name": "Trio Boys Lover",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0a603195-8f72-44cb-89ee-27eaf4f48567"
-  },
-  {
-    "name": "Fadli",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "642134aa-93c3-446e-b785-2cc092ccc176"
-  },
-  {
-    "name": "Anjas Farizqi N",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0dae027c-3a50-4d9b-a8cb-54a758417c86"
-  },
-  {
-    "name": "Irwinsyah Maulana",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "f5ffb9c2-2138-49af-bf55-33b2e043f34f"
-  },
-  {
-    "name": "Afina Khoirunnisa",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "4aa1cd86-bc34-48ab-aea3-58e03e2cc956"
-  },
-  {
-    "name": "Ilham Raviqy",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "c05e924f-0dd8-4f2f-b0ee-c0914d014334"
-  },
-  {
-    "name": "Yudisti Nur Hidayat",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9c91d30c-419b-41a3-9dd2-4d2c72c4cb39"
-  },
-  {
-    "name": "Agus Probo Sutejo",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "e1bcb109-27f6-4f03-807a-1049a2e2f65f"
-  },
-  {
-    "name": "Dewi Lanita Sari",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "d46ae6d5-f8a7-45ac-8ba8-72a244145be0"
-  },
-  {
-    "name": "Misbah Habib",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "41bfa865-c874-4412-baf8-2fe573d87599"
-  },
-  {
-    "name": "Ikhsan Mahfudin",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "ce3fea38-0765-4894-9ee6-5d3d000501ca"
-  },
-  {
-    "name": "Septiana Tika Sari",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "754c92a6-fe81-4642-a994-83ecfbbebe02"
-  },
-  {
-    "name": "Ihsan Fajar",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "af94aefe-084e-4001-9f20-482dddc32d8d"
-  },
-  {
-    "name": "Rafa Rumaisha RA",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "fc8c3c8c-5428-4a29-9917-96ea94725bd7"
-  },
-  {
-    "name": "Landung Malik Antoro",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "7f6504c7-d2b7-41b4-a10b-411974375d73"
-  },
-  {
-    "name": "Retna Juriyah",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "a2d2ac29-7bae-4fb8-a3a3-89c2d1af7364"
-  },
-  {
-    "name": "M. Ishlahul Muzakki",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "cab81ed4-9f49-420c-a8f8-e53794099d70"
-  },
-  {
-    "name": "M. Hamka Satrianto",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "b7c2483a-5303-463d-8168-70cfcbff6494"
-  },
-  {
-    "name": "Bintang Lazuardi",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "3c5d257e-2d28-4845-aab0-da709bfdea12"
-  },
-  {
-    "name": "M. Faizal Awalludin",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "6fdfcb03-ebb2-4ab2-b71e-84aa12f0a28a"
-  },
-  {
-    "name": "Naufal",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "648f947b-d6d3-4df6-a749-9a6bb94fd5d2"
-  },
-  {
-    "name": "Rekan eks-Refactory",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "242dadbc-db5d-4948-9080-8d1a0923c23b"
-  },
-  {
-    "name": "Pak Akbar dan tim",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "fde1b46f-f1c2-41aa-a742-7d07c98925bc"
-  },
-  {
-    "name": "Pak Wahid dan tim",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "7a148f27-79d8-43de-bc66-9e3bd5b28d84"
-  },
-  {
-    "name": "Rosyalinda Fatharani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "f15ff999-caae-4a75-9650-a8fe35ba8224"
-  },
-  {
-    "name": "Ervina Nurfalah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "8245604c-9357-4c55-b098-21438dc24533"
-  },
-  {
-    "name": "Rizkyarani Siregar",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "59a4665b-9d82-423d-8380-84df2aaf0f53"
-  },
-  {
-    "name": "Ikhwan Yogyakarta",
-    "showAkadLocation": "TRUE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "01dee423-1677-418b-9c3d-466fd0b2ebbc"
-  },
-  {
-    "name": "Dewan Guru dan Tenaga Kependidikan SMK Negeri 6 Kota Tangerang Selatan",
-    "showAkadLocation": "FALSE",
-    "showCalma": "TRUE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "afdf6d56-32de-4bbb-9a41-fc8b8b2bb617"
-  },
-  {
-    "name": "Bpk. Darsono",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "ac76c9a4-ac9c-4c97-a0e5-4118b551b65c"
-  },
-  {
-    "name": "Bpk. Irfan Sahyana",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "5c959d63-7c92-4533-8af7-beac20e0163a"
-  },
-  {
-    "name": "Bpk. Warlan",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "224f4de7-42c8-42ea-941d-cc3f726268e2"
-  },
-  {
-    "name": "Bpk. Yayat",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "d2deaa21-fe4b-49ec-b99e-e373e1f8aa93"
-  },
-  {
-    "name": "Bpk. Adang iriana",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "7b7d235f-d6fc-4e76-9d88-e88d2c5004bf"
-  },
-  {
-    "name": "Bpk. Didi Kayadi",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0d3edbfa-0a80-4cdc-b611-46ab2f48406a"
-  },
-  {
-    "name": "Ibu. Wiwin Bojong",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "031107be-ecc1-4839-bed1-f16547db7069"
-  },
-  {
-    "name": "Ibu. Ane",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "e6dd7f5c-1619-4454-aa36-2cd26e9e103e"
-  },
-  {
-    "name": "Ibu. Ayuni",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "c7745d0a-9f70-4456-aade-f84b2d593873"
-  },
-  {
-    "name": "Ibu. Heni nurdaningsih",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "3ded6774-5367-4033-96aa-4613d852cc4c"
-  },
-  {
-    "name": "Ibu. Yuli Berliani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "8f6a3747-cbbf-4a98-a14f-50dd0b2ccade"
-  },
-  {
-    "name": "Ibu. Risa",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "c89a893f-5bd7-400f-ac8c-13770984e8d1"
-  },
-  {
-    "name": "Ibu. Yani Ayang",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9b91d469-15c2-4ee0-b507-428da2fad46f"
-  },
-  {
-    "name": "Ibu. Ina Saenah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "22b264b5-7bd1-46de-86cc-2f415a70159b"
-  },
-  {
-    "name": "Ibu. Lusi",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "51e400d8-d87b-40b0-b933-314e45920d56"
-  },
-  {
-    "name": "Ibu. Sri Suyatmi",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "88d8a3d0-ca22-4a8e-a72f-f1c98e27f3b2"
-  },
-  {
-    "name": "Bpk. Vicky",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "edae5055-febf-4bf5-a607-292595ffc448"
-  },
-  {
-    "name": "Bpk. Erik",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "c60e68e4-9bab-4079-8585-ead81e97ae6a"
-  },
-  {
-    "name": "Bpk. Heri Setiawan",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "3eee0363-3919-49f2-b635-2f778642828d"
-  },
-  {
-    "name": "Bpk. Epin Sofyan",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "49d36c5d-c971-43c5-89b5-deb084a32659"
-  },
-  {
-    "name": "Bpk. Ayi Dedi",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "378b65a2-35c3-4737-888d-b2d6dd25730a"
-  },
-  {
-    "name": "Bpk. Ujang Ruskanda",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "718a429c-cfb6-4c07-8cb7-4bbefa322e69"
-  },
-  {
-    "name": "Bpk. Ipin",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "99896cec-4f09-4acd-8523-de2137fe86e4"
-  },
-  {
-    "name": "Bpk. Simatek",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "4d46f331-5de1-4897-bc00-f627b545f71e"
-  },
-  {
-    "name": "Bpk. Eful",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9353bf6a-837c-4c22-b579-9ef43bbdf40b"
-  },
-  {
-    "name": "Pendi",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "95bbc0b2-584f-4fbe-bf9e-745ce1ab1d7e"
-  },
-  {
-    "name": "Bpk. Kismo",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "095be49a-5afe-4dc7-b5d7-9fbb7bdf056c"
-  },
-  {
-    "name": "Bpk. Didi Haryadi Otong",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "5b5a588d-a830-408e-8322-86d4a92f9b5f"
-  },
-  {
-    "name": "Bpk. Nono",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0157e6cc-beb3-4e41-9be3-0027180a2a61"
-  },
-  {
-    "name": "Bpk. Dadan Nurhanudin",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "53dafbcf-79a9-4763-bbcd-4da1ffdc5c2f"
-  },
-  {
-    "name": "Bpk. Dadang OP",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "eb476077-1ce3-476a-8b8c-543c556fa666"
-  },
-  {
-    "name": "Bpk. Ayi Muhtar",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "c03df12b-aca3-4668-8575-08cdab768fba"
-  },
-  {
-    "name": "Bpk. Ujang Adin",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "a783a9ae-c7dd-40b7-a7e9-58eb073d597d"
-  },
-  {
-    "name": "Bpk. Ade",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "38fce3c7-aa85-4c33-964a-dbde25698411"
-  },
-  {
-    "name": "Bpk. Ganjar",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "1bd20a5b-3f93-44b6-9248-e8d20b843d9f"
-  },
-  {
-    "name": "Bpk. Asep Setting",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "b157ad72-53fe-4c48-8caa-e5978a4f21e5"
-  },
-  {
-    "name": "Bpk. Dudi Emper",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "a6918cf4-3092-4fd6-9804-bf2a386430e7"
-  },
-  {
-    "name": "Ibu. Tati",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "4d84ebd9-6734-4c74-a06b-4d71f05e19d4"
-  },
-  {
-    "name": "Ibu. Tri",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "3c503668-a65b-43f8-93c0-1e38cdff0801"
-  },
-  {
-    "name": "Bpk. Ujang Tompel",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "48eda8c8-4491-4b97-923b-5a2cfa01e86e"
-  },
-  {
-    "name": "Bpk. Nugraha",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "94873afe-140c-42f7-9de3-8e781d7537c4"
-  },
-  {
-    "name": "Bpk. Utar",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "a23bc0d6-76c1-49c7-a616-bcbd773b984d"
-  },
-  {
-    "name": "Bpk. Indra Japra",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "89d983ff-3db8-466f-afd3-13fd49f0707b"
-  },
-  {
-    "name": "Bpk. Rahmat40",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "6f533777-b0d8-4d3f-9f85-fded66859edd"
-  },
-  {
-    "name": "Bpk. H. Deden",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "f54d1291-2c43-4b8f-b96e-1bb7b445ca42"
-  },
-  {
-    "name": "Bpk. Solihin",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "609bd213-237a-402c-932b-d1f9667ea271"
-  },
-  {
-    "name": "Ibu Ucu",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "cbb1ea79-96dc-4ef3-82b6-6ffd5a6ac4af"
-  },
-  {
-    "name": "Melly Mutiarawati",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0948109d-7924-4841-9849-96add27d1ac6"
-  },
-  {
-    "name": "Sonia Eka Septiani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "e8be36ac-cf0a-427e-81f2-1c5a2b11b26a"
-  },
-  {
-    "name": "Septa Kurniawan Syah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "5d571d64-53dc-493a-9cf8-16bcc89e9145"
-  },
-  {
-    "name": "Siti Wanda Ratnengsih",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "89d5dd9f-3c61-40f2-b994-3ae6a6a11c2e"
-  },
-  {
-    "name": "Queen",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "966f9dfe-970d-493d-a011-9fa07c09a906"
-  },
-  {
-    "name": "Paiz Zaturahman",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "ded07ceb-0085-4eff-b4c4-98bad85b0c0e"
-  },
-  {
-    "name": "Ervan Akhyar Azzamta",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "5e205ba0-1a87-45c9-9fcd-5b4a7f83b15c"
-  },
-  {
-    "name": "Pepep Supriatna",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "d3a4d1b2-a7fe-4ec3-9183-f042d16cb5c8"
-  },
-  {
-    "name": "Sholeman",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "94ddb007-57a4-4647-b28e-945e5a8b6733"
-  },
-  {
-    "name": "Isma Saniatulhasanah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "e7ffe94d-df90-449b-b122-0f160b4bb913"
-  },
-  {
-    "name": "Amanda Putri Fibrianti",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "09573fc0-68b6-4948-ac19-aa70bedbd8e8"
-  },
-  {
-    "name": "Icha Enisa Oktaviani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "82075648-1ec8-4df2-9916-b4ace7d9c038"
-  },
-  {
-    "name": "Restu Ayu",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9f4d9050-11e6-4cf0-bc91-f85949a9a79f"
-  },
-  {
-    "name": "Fericha Nabila",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "a55c090a-9636-4ac0-a103-3aa80ceb1afd"
-  },
-  {
-    "name": "Euis Sumiati",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "04a25327-0b1d-4a8b-8709-b97eff287ac2"
-  },
-  {
-    "name": "Eneng Aryani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "d17d4b3b-7f6e-4cab-a273-9bdae8fb26fc"
-  },
-  {
-    "name": "Dedi Witana",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "24413fe8-bc7b-4015-af7c-2912bfa8a94d"
-  },
-  {
-    "name": "Ismi Fitriany",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "df99ce5d-b89d-4d63-8be5-9a2e0e013795"
-  },
-  {
-    "name": "Hana Zulfa Nabilah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0ba2ce9c-0c01-49e1-b121-5d05412403f7"
-  },
-  {
-    "name": "Sri Mulyani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "71239b1e-18fd-44a5-bbfb-f4139218ee20"
-  },
-  {
-    "name": "Kiki Suryati",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0fa80def-5d55-4d37-b199-1aff7ff0f431"
-  },
-  {
-    "name": "Fentry",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "bdb2c18a-bcf8-42cb-aa6c-bdb71ee5df28"
-  },
-  {
-    "name": "Viyanda",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "ce8e55f3-225c-41fb-a752-32292411bf0e"
-  },
-  {
-    "name": "Vera Hartiani",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "6f720018-5016-4a71-abdd-73cdc5c61ee8"
-  },
-  {
-    "name": "Tria Martina",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "87041222-4375-4957-b812-a932e1e7a3c4"
-  },
-  {
-    "name": "Yovinka Helena",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "d7315a33-070d-4c3f-ba01-c05491268eff"
-  },
-  {
-    "name": "Salza",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "abeaffb4-0007-4e5b-9820-3039b9aa7555"
-  },
-  {
-    "name": "Shally Novia",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "f4e8d55f-11cf-4194-9dc6-a489f1e98986"
-  },
-  {
-    "name": "Aulia Elvana",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "dd4c6acd-515a-44ee-b93e-aafee3bd3d58"
-  },
-  {
-    "name": "Aulia Putri",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "bf38bf02-490f-40f7-944b-285f7e65dbf5"
-  },
-  {
-    "name": "Reni Nurhayati",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "6f54ebf0-1c1b-4118-9c2c-1640d65c8eec"
-  },
-  {
-    "name": "Dian Andriyanti",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "02823102-9be1-400f-829a-b475468c4523"
-  },
-  {
-    "name": "Eeng Juhaeni",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "22862355-57bc-4950-b415-ac5b93dfbc1f"
-  },
-  {
-    "name": "Dede Budiman",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "e7900657-4b32-49c2-a3b4-fd4fd2f1f3cd"
-  },
-  {
-    "name": "Vishnu",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9f76d0a3-31d2-428c-8163-715ae65239db"
-  },
-  {
-    "name": "Ardan",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "b74b5304-24c2-4d36-918f-6cf7affef405"
-  },
-  {
-    "name": "Iyus",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "a1ac66dd-2650-4f1b-b30b-79a19156436f"
-  },
-  {
-    "name": "Cecep",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "93a69ef1-585b-43b1-9d4f-1892376d62c2"
-  },
-  {
-    "name": "Bures",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "1ff815c0-6258-4989-a9c2-08174e1979d8"
-  },
-  {
-    "name": "Cukey",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "199ddac4-40d3-45da-b4d0-c888bdc8e23f"
-  },
-  {
-    "name": "Mamah",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "f4166576-51ec-4127-acf7-3f51848c525b"
-  },
-  {
-    "name": "Nuri",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "72b399fc-44c9-4400-9f62-85aa0142be81"
-  },
-  {
-    "name": "Denden",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "107b24b5-950e-40de-ab90-b227fd458564"
-  },
-  {
-    "name": "A Ujang",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "62164455-f9e1-4c6a-92f0-ffd10c9ae57f"
-  },
-  {
-    "name": "Elin Veza",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0a1209d7-e31a-4ed9-9cf8-7f5542dcd1b0"
-  },
-  {
-    "name": "Sulaeman",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "0fd033bc-0b1e-410b-b8c7-324ce43b7850"
-  },
-  {
-    "name": "Ust. Deni",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "d8f0830e-c7fa-4780-aa2b-fb760f98640a"
-  },
-  {
-    "name": "Ust. Ujang",
-    "showAkadLocation": "TRUE",
-    "showCalma": "FALSE",
-    "showBankInfo": "TRUE",
-    "language": "id",
-    "id": "9b3ad01c-eeb0-4d42-94ae-67f2da247445"
-  }
+ {
+   "name": "HAMBAR",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "b091b6ad-7d8e-4dc5-99d3-02fa18e60197"
+ },
+ {
+   "name": "Kel. Besar Ma Iyoh",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9f9d5d54-5134-4654-9032-51b3269a3c69"
+ },
+ {
+   "name": "Putune Mbok Sabingah",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "366bc194-f61a-4d61-8eea-3aa8e7bc5460"
+ },
+ {
+   "name": "Rekan-rekan WCS Abysena ",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "61fba766-d900-4cbe-9ed9-4f3ec087ab88"
+ },
+ {
+   "name": "ATEDJA",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "4940e3a7-1767-4349-a251-f610d5e7f3f8"
+ },
+ {
+   "name": "Mufid",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "52a51ebe-5301-4b67-9840-9bb5c685a55e"
+ },
+ {
+   "name": "Robby Akbar",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "711e3832-64d4-47be-9956-2b007e5b6611"
+ },
+ {
+   "name": "Trio Boys Lover",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0a603195-8f72-44cb-89ee-27eaf4f48567"
+ },
+ {
+   "name": "Fadli",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "642134aa-93c3-446e-b785-2cc092ccc176"
+ },
+ {
+   "name": "Anjas Farizqi N",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0dae027c-3a50-4d9b-a8cb-54a758417c86"
+ },
+ {
+   "name": "Irwinsyah Maulana",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "f5ffb9c2-2138-49af-bf55-33b2e043f34f"
+ },
+ {
+   "name": "Afina Khoirunnisa",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "4aa1cd86-bc34-48ab-aea3-58e03e2cc956"
+ },
+ {
+   "name": "Ilham Raviqy",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "c05e924f-0dd8-4f2f-b0ee-c0914d014334"
+ },
+ {
+   "name": "Yudisti Nur Hidayat",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9c91d30c-419b-41a3-9dd2-4d2c72c4cb39"
+ },
+ {
+   "name": "Agus Probo Sutejo",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "e1bcb109-27f6-4f03-807a-1049a2e2f65f"
+ },
+ {
+   "name": "Dewi Lanita Sari",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "d46ae6d5-f8a7-45ac-8ba8-72a244145be0"
+ },
+ {
+   "name": "Misbah Habib",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "41bfa865-c874-4412-baf8-2fe573d87599"
+ },
+ {
+   "name": "Ikhsan Mahfudin",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "ce3fea38-0765-4894-9ee6-5d3d000501ca"
+ },
+ {
+   "name": "Septiana Tika Sari",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "754c92a6-fe81-4642-a994-83ecfbbebe02"
+ },
+ {
+   "name": "Ihsan Fajar",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "af94aefe-084e-4001-9f20-482dddc32d8d"
+ },
+ {
+   "name": "Rafa Rumaisha RA",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "fc8c3c8c-5428-4a29-9917-96ea94725bd7"
+ },
+ {
+   "name": "Landung Malik Antoro",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "7f6504c7-d2b7-41b4-a10b-411974375d73"
+ },
+ {
+   "name": "Retna Juriyah",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a2d2ac29-7bae-4fb8-a3a3-89c2d1af7364"
+ },
+ {
+   "name": "M. Ishlahul Muzakki",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "cab81ed4-9f49-420c-a8f8-e53794099d70"
+ },
+ {
+   "name": "M. Hamka Satrianto",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "b7c2483a-5303-463d-8168-70cfcbff6494"
+ },
+ {
+   "name": "Bintang Lazuardi",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "3c5d257e-2d28-4845-aab0-da709bfdea12"
+ },
+ {
+   "name": "M. Faizal Awalludin",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "6fdfcb03-ebb2-4ab2-b71e-84aa12f0a28a"
+ },
+ {
+   "name": "Naufal",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "648f947b-d6d3-4df6-a749-9a6bb94fd5d2"
+ },
+ {
+   "name": "Rekan eks-Refactory",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "242dadbc-db5d-4948-9080-8d1a0923c23b"
+ },
+ {
+   "name": "Pak Akbar dan tim",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "fde1b46f-f1c2-41aa-a742-7d07c98925bc"
+ },
+ {
+   "name": "Pak Wahid dan tim",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "7a148f27-79d8-43de-bc66-9e3bd5b28d84"
+ },
+ {
+   "name": "Rosyalinda Fatharani",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "f15ff999-caae-4a75-9650-a8fe35ba8224"
+ },
+ {
+   "name": "Ervina Nurfalah",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "8245604c-9357-4c55-b098-21438dc24533"
+ },
+ {
+   "name": "Rizkyarani Siregar",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "59a4665b-9d82-423d-8380-84df2aaf0f53"
+ },
+ {
+   "name": "Ikhwan Yogyakarta",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "01dee423-1677-418b-9c3d-466fd0b2ebbc"
+ },
+ {
+   "name": "Dewan Guru dan Tenaga Kependidikan SMK Negeri 6 Kota Tangerang Selatan",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "afdf6d56-32de-4bbb-9a41-fc8b8b2bb617"
+ },
+ {
+   "name": "Bpk. Darsono",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "ac76c9a4-ac9c-4c97-a0e5-4118b551b65c"
+ },
+ {
+   "name": "Bpk. Irfan Sahyana",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "5c959d63-7c92-4533-8af7-beac20e0163a"
+ },
+ {
+   "name": "Bpk. Warlan",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "224f4de7-42c8-42ea-941d-cc3f726268e2"
+ },
+ {
+   "name": "Bpk. Yayat",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "d2deaa21-fe4b-49ec-b99e-e373e1f8aa93"
+ },
+ {
+   "name": "Bpk. Adang iriana",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "7b7d235f-d6fc-4e76-9d88-e88d2c5004bf"
+ },
+ {
+   "name": "Bpk. Didi Kayadi",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0d3edbfa-0a80-4cdc-b611-46ab2f48406a"
+ },
+ {
+   "name": "Ibu. Wiwin Bojong",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "031107be-ecc1-4839-bed1-f16547db7069"
+ },
+ {
+   "name": "Ibu. Ane",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "e6dd7f5c-1619-4454-aa36-2cd26e9e103e"
+ },
+ {
+   "name": "Ibu. Ayuni",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "c7745d0a-9f70-4456-aade-f84b2d593873"
+ },
+ {
+   "name": "Ibu. Heni nurdaningsih",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "3ded6774-5367-4033-96aa-4613d852cc4c"
+ },
+ {
+   "name": "Ibu. Yuli Berliani",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "8f6a3747-cbbf-4a98-a14f-50dd0b2ccade"
+ },
+ {
+   "name": "Ibu. Risa",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "c89a893f-5bd7-400f-ac8c-13770984e8d1"
+ },
+ {
+   "name": "Ibu. Yani Ayang",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9b91d469-15c2-4ee0-b507-428da2fad46f"
+ },
+ {
+   "name": "Ibu. Ina Saenah",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "22b264b5-7bd1-46de-86cc-2f415a70159b"
+ },
+ {
+   "name": "Ibu. Lusi",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "51e400d8-d87b-40b0-b933-314e45920d56"
+ },
+ {
+   "name": "Ibu. Sri Suyatmi",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "88d8a3d0-ca22-4a8e-a72f-f1c98e27f3b2"
+ },
+ {
+   "name": "Bpk. Vicky",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "edae5055-febf-4bf5-a607-292595ffc448"
+ },
+ {
+   "name": "Bpk. Erik",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "c60e68e4-9bab-4079-8585-ead81e97ae6a"
+ },
+ {
+   "name": "Bpk. Heri Setiawan",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "3eee0363-3919-49f2-b635-2f778642828d"
+ },
+ {
+   "name": "Bpk. Epin Sofyan",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "49d36c5d-c971-43c5-89b5-deb084a32659"
+ },
+ {
+   "name": "Bpk. Ayi Dedi",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "378b65a2-35c3-4737-888d-b2d6dd25730a"
+ },
+ {
+   "name": "Bpk. Ujang Ruskanda",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "718a429c-cfb6-4c07-8cb7-4bbefa322e69"
+ },
+ {
+   "name": "Bpk. Ipin",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "99896cec-4f09-4acd-8523-de2137fe86e4"
+ },
+ {
+   "name": "Bpk. Simatek",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "4d46f331-5de1-4897-bc00-f627b545f71e"
+ },
+ {
+   "name": "Bpk. Eful",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9353bf6a-837c-4c22-b579-9ef43bbdf40b"
+ },
+ {
+   "name": "Pendi",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "95bbc0b2-584f-4fbe-bf9e-745ce1ab1d7e"
+ },
+ {
+   "name": "Bpk. Kismo",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "095be49a-5afe-4dc7-b5d7-9fbb7bdf056c"
+ },
+ {
+   "name": "Bpk. Didi Haryadi Otong",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "5b5a588d-a830-408e-8322-86d4a92f9b5f"
+ },
+ {
+   "name": "Bpk. Nono",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0157e6cc-beb3-4e41-9be3-0027180a2a61"
+ },
+ {
+   "name": "Bpk. Dadan Nurhanudin",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "53dafbcf-79a9-4763-bbcd-4da1ffdc5c2f"
+ },
+ {
+   "name": "Bpk. Dadang OP",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "eb476077-1ce3-476a-8b8c-543c556fa666"
+ },
+ {
+   "name": "Bpk. Ayi Muhtar",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "c03df12b-aca3-4668-8575-08cdab768fba"
+ },
+ {
+   "name": "Bpk. Ujang Adin",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a783a9ae-c7dd-40b7-a7e9-58eb073d597d"
+ },
+ {
+   "name": "Bpk. Ade",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "38fce3c7-aa85-4c33-964a-dbde25698411"
+ },
+ {
+   "name": "Bpk. Ganjar",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "1bd20a5b-3f93-44b6-9248-e8d20b843d9f"
+ },
+ {
+   "name": "Bpk. Asep Setting",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "b157ad72-53fe-4c48-8caa-e5978a4f21e5"
+ },
+ {
+   "name": "Bpk. Dudi Emper",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a6918cf4-3092-4fd6-9804-bf2a386430e7"
+ },
+ {
+   "name": "Ibu. Tati",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "4d84ebd9-6734-4c74-a06b-4d71f05e19d4"
+ },
+ {
+   "name": "Ibu. Tri",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "3c503668-a65b-43f8-93c0-1e38cdff0801"
+ },
+ {
+   "name": "Bpk. Ujang Tompel",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "48eda8c8-4491-4b97-923b-5a2cfa01e86e"
+ },
+ {
+   "name": "Bpk. Nugraha",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "94873afe-140c-42f7-9de3-8e781d7537c4"
+ },
+ {
+   "name": "Bpk. Utar",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a23bc0d6-76c1-49c7-a616-bcbd773b984d"
+ },
+ {
+   "name": "Bpk. Indra Japra",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "89d983ff-3db8-466f-afd3-13fd49f0707b"
+ },
+ {
+   "name": "Bpk. Rahmat40",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "6f533777-b0d8-4d3f-9f85-fded66859edd"
+ },
+ {
+   "name": "Bpk. H. Deden",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "f54d1291-2c43-4b8f-b96e-1bb7b445ca42"
+ },
+ {
+   "name": "Bpk. Solihin",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "609bd213-237a-402c-932b-d1f9667ea271"
+ },
+ {
+   "name": "Ibu Ucu",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "cbb1ea79-96dc-4ef3-82b6-6ffd5a6ac4af"
+ },
+ {
+   "name": "Melly Mutiarawati",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0948109d-7924-4841-9849-96add27d1ac6"
+ },
+ {
+   "name": "Sonia Eka Septiani",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "e8be36ac-cf0a-427e-81f2-1c5a2b11b26a"
+ },
+ {
+   "name": "Septa Kurniawan Syah",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "5d571d64-53dc-493a-9cf8-16bcc89e9145"
+ },
+ {
+   "name": "Siti Wanda Ratnengsih",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "89d5dd9f-3c61-40f2-b994-3ae6a6a11c2e"
+ },
+ {
+   "name": "Queen",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "966f9dfe-970d-493d-a011-9fa07c09a906"
+ },
+ {
+   "name": "Paiz Zaturahman",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "ded07ceb-0085-4eff-b4c4-98bad85b0c0e"
+ },
+ {
+   "name": "Ervan Akhyar Azzamta",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "5e205ba0-1a87-45c9-9fcd-5b4a7f83b15c"
+ },
+ {
+   "name": "Pepep Supriatna",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "d3a4d1b2-a7fe-4ec3-9183-f042d16cb5c8"
+ },
+ {
+   "name": "Sholeman",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "94ddb007-57a4-4647-b28e-945e5a8b6733"
+ },
+ {
+   "name": "Isma Saniatulhasanah",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "e7ffe94d-df90-449b-b122-0f160b4bb913"
+ },
+ {
+   "name": "Amanda Putri Fibrianti",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "09573fc0-68b6-4948-ac19-aa70bedbd8e8"
+ },
+ {
+   "name": "Icha Enisa Oktaviani",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "82075648-1ec8-4df2-9916-b4ace7d9c038"
+ },
+ {
+   "name": "Restu Ayu",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9f4d9050-11e6-4cf0-bc91-f85949a9a79f"
+ },
+ {
+   "name": "Fericha Nabila",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a55c090a-9636-4ac0-a103-3aa80ceb1afd"
+ },
+ {
+   "name": "Euis Sumiati",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "04a25327-0b1d-4a8b-8709-b97eff287ac2"
+ },
+ {
+   "name": "Eneng Aryani",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "d17d4b3b-7f6e-4cab-a273-9bdae8fb26fc"
+ },
+ {
+   "name": "Dedi Witana",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "24413fe8-bc7b-4015-af7c-2912bfa8a94d"
+ },
+ {
+   "name": "Ismi Fitriany",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "df99ce5d-b89d-4d63-8be5-9a2e0e013795"
+ },
+ {
+   "name": "Hana Zulfa Nabilah",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0ba2ce9c-0c01-49e1-b121-5d05412403f7"
+ },
+ {
+   "name": "Sri Mulyani",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "71239b1e-18fd-44a5-bbfb-f4139218ee20"
+ },
+ {
+   "name": "Kiki Suryati",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0fa80def-5d55-4d37-b199-1aff7ff0f431"
+ },
+ {
+   "name": "Fentry",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "bdb2c18a-bcf8-42cb-aa6c-bdb71ee5df28"
+ },
+ {
+   "name": "Viyanda",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "ce8e55f3-225c-41fb-a752-32292411bf0e"
+ },
+ {
+   "name": "Vera Hartiani",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "6f720018-5016-4a71-abdd-73cdc5c61ee8"
+ },
+ {
+   "name": "Tria Martina",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "87041222-4375-4957-b812-a932e1e7a3c4"
+ },
+ {
+   "name": "Yovinka Helena",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "d7315a33-070d-4c3f-ba01-c05491268eff"
+ },
+ {
+   "name": "Salza",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "abeaffb4-0007-4e5b-9820-3039b9aa7555"
+ },
+ {
+   "name": "Shally Novia",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "f4e8d55f-11cf-4194-9dc6-a489f1e98986"
+ },
+ {
+   "name": "Aulia Elvana",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "dd4c6acd-515a-44ee-b93e-aafee3bd3d58"
+ },
+ {
+   "name": "Aulia Putri",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "bf38bf02-490f-40f7-944b-285f7e65dbf5"
+ },
+ {
+   "name": "Reni Nurhayati",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "6f54ebf0-1c1b-4118-9c2c-1640d65c8eec"
+ },
+ {
+   "name": "Dian Andriyanti",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "02823102-9be1-400f-829a-b475468c4523"
+ },
+ {
+   "name": "Eeng Juhaeni",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "22862355-57bc-4950-b415-ac5b93dfbc1f"
+ },
+ {
+   "name": "Dede Budiman",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "e7900657-4b32-49c2-a3b4-fd4fd2f1f3cd"
+ },
+ {
+   "name": "Vishnu",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9f76d0a3-31d2-428c-8163-715ae65239db"
+ },
+ {
+   "name": "Ardan",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "b74b5304-24c2-4d36-918f-6cf7affef405"
+ },
+ {
+   "name": "Iyus",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a1ac66dd-2650-4f1b-b30b-79a19156436f"
+ },
+ {
+   "name": "Cecep",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "93a69ef1-585b-43b1-9d4f-1892376d62c2"
+ },
+ {
+   "name": "Bures",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "1ff815c0-6258-4989-a9c2-08174e1979d8"
+ },
+ {
+   "name": "Cukey",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "199ddac4-40d3-45da-b4d0-c888bdc8e23f"
+ },
+ {
+   "name": "Mamah",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "f4166576-51ec-4127-acf7-3f51848c525b"
+ },
+ {
+   "name": "Nuri",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "72b399fc-44c9-4400-9f62-85aa0142be81"
+ },
+ {
+   "name": "Denden",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "107b24b5-950e-40de-ab90-b227fd458564"
+ },
+ {
+   "name": "A Ujang",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "62164455-f9e1-4c6a-92f0-ffd10c9ae57f"
+ },
+ {
+   "name": "Elin Veza",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0a1209d7-e31a-4ed9-9cf8-7f5542dcd1b0"
+ },
+ {
+   "name": "Sulaeman",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0fd033bc-0b1e-410b-b8c7-324ce43b7850"
+ },
+ {
+   "name": "Ust. Deni",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "d8f0830e-c7fa-4780-aa2b-fb760f98640a"
+ },
+ {
+   "name": "Ust. Ujang",
+   "showAkadLocation": true,
+   "showCalma": false,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9b3ad01c-eeb0-4d42-94ae-67f2da247445"
+ }
 ]
