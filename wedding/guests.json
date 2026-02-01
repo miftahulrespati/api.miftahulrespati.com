@@ -22,5 +22,13 @@
         "showAkadLocation": true,
         "showCalma": true,
         "showBankInfo": true
+    },
+    {
+        "id": "b091b6ad-7d8e-4dc5-99d3-02fa18e60197",
+        "name": "HAMBAR",
+        "lang": "id",
+        "showAkadLocation": true,
+        "showCalma": true,
+        "showBankInfo": true
     }
 ]
