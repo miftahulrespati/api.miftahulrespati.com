@@ -1,0 +1,26 @@
+[
+    {
+        "id": "9e602047-9985-483b-9d9a-6e657c743f2b",
+        "name": "Guest Name",
+        "lang": "id",
+        "showAkadLocation": false,
+        "showCalma": true,
+        "showBankInfo": false
+    },
+    {
+        "id": "64a8d90d-a398-4747-9f93-dc6f432d58e7",
+        "name": "Miftahul Respati",
+        "lang": "id",
+        "showAkadLocation": true,
+        "showCalma": true,
+        "showBankInfo": true
+    },
+    {
+        "id": "372e95b8-c245-4228-80ff-60e100aedf19",
+        "name": "Rizka Shinta Wulandari",
+        "lang": "en",
+        "showAkadLocation": true,
+        "showCalma": true,
+        "showBankInfo": true
+    }
+]
