@@ -1,5 +1,13 @@
 [
  {
+   "name": "You",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": false,
+   "language": "en",
+   "id": "en"
+ },
+ {
    "name": "HAMBAR",
    "showAkadLocation": true,
    "showCalma": true,
