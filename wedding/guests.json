@@ -1086,5 +1086,13 @@
    "showBankInfo": true,
    "language": "id",
    "id": "84cb7f83-16fa-4758-ba2b-64a65a6f909f"
+ },
+ {
+   "name": "Rekan-rekan Prodev",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "cbc07c62-19c3-4d91-8d4f-c3af0015e8d7"
  }
 ]
