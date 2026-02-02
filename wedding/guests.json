@@ -1054,5 +1054,37 @@
    "showBankInfo": true,
    "language": "id",
    "id": "9b3ad01c-eeb0-4d42-94ae-67f2da247445"
+ },
+ {
+   "name": "Isnaeni Yulianti",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "41bf7b76-c6ab-4f85-86f6-8ba4dbd430b8"
+ },
+ {
+   "name": "Bondan",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "2f55b179-7856-453f-8c89-c1ce6eaaaa79"
+ },
+ {
+   "name": "Gagah",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "72270715-b48a-4100-a254-c9a9645f1c93"
+ },
+ {
+   "name": "Aa & Teteh",
+   "showAkadLocation": true,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "84cb7f83-16fa-4758-ba2b-64a65a6f909f"
  }
 ]
