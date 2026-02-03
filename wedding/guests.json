@@ -1064,7 +1064,7 @@
    "id": "41bf7b76-c6ab-4f85-86f6-8ba4dbd430b8"
  },
  {
-   "name": "Bondan",
+   "name": "Stefanus Bondan",
    "showAkadLocation": false,
    "showCalma": true,
    "showBankInfo": true,
@@ -1072,7 +1072,7 @@
    "id": "2f55b179-7856-453f-8c89-c1ce6eaaaa79"
  },
  {
-   "name": "Gagah",
+   "name": "Gagah Khaesarrahman",
    "showAkadLocation": false,
    "showCalma": true,
    "showBankInfo": true,
@@ -1088,11 +1088,67 @@
    "id": "84cb7f83-16fa-4758-ba2b-64a65a6f909f"
  },
  {
+   "name": "Zaenal Mutaqin",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "e841ce90-2399-495c-8f93-e07773f73d7f"
+ },
+ {
    "name": "Rekan-rekan Prodev",
    "showAkadLocation": false,
    "showCalma": true,
    "showBankInfo": true,
    "language": "id",
    "id": "cbc07c62-19c3-4d91-8d4f-c3af0015e8d7"
+ },
+ {
+   "name": "Rofiatus Sholikah",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "4a95ef51-b227-4ea2-8710-2006494024c1"
+ },
+ {
+   "name": "Silmi Utami Rahayu",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "ae738e46-6441-409d-aac9-4317f400d565"
+ },
+ {
+   "name": "Aldy Aflahul Fikri",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "9895f3be-c9c9-4d98-ab7c-2266b8f02bb6"
+ },
+ {
+   "name": "Syafira Dwi Herliana",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "dd7d04de-2457-4175-a1b0-67496562a906"
+ },
+ {
+   "name": "Zhafirah Sakinah Baity",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "73f731af-21da-4b1f-8db5-8a4ff5a8a45e"
+ },
+ {
+   "name": "Din Din Jalaludin",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0c6ebfff-1327-4a5e-9b8c-f614a14fbacb"
  }
 ]
