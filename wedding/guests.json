@@ -1150,5 +1150,29 @@
    "showBankInfo": true,
    "language": "id",
    "id": "0c6ebfff-1327-4a5e-9b8c-f614a14fbacb"
+ },
+ {
+   "name": "Baqiyah Soliha",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "0532a4f1-18ec-440b-a830-dccee5f5537d"
+ },
+ {
+   "name": "Rafli Fatahillah",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a34c3201-f651-434d-ad9d-5b27ff6d8764"
+ },
+ {
+   "name": "Nicho Philipo",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "fba663ff-0b1a-48f1-ad2e-154b5baae0c7"
  }
 ]
