@@ -1174,5 +1174,21 @@
    "showBankInfo": true,
    "language": "id",
    "id": "fba663ff-0b1a-48f1-ad2e-154b5baae0c7"
+ },
+ {
+   "name": "Ervina Nurfalah",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "149c6a47-a0e5-4ff9-9513-3720551af066"
+ },
+ {
+   "name": "Airell Taufiq",
+   "showAkadLocation": false,
+   "showCalma": true,
+   "showBankInfo": true,
+   "language": "id",
+   "id": "a35fcf89-0111-4ae7-9951-b116814c6f44"
  }
 ]
